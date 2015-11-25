@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-trip",
   "description": "ESLint rules for trip.js and related modules",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "devDependencies": {
     "js-yaml": "^3.4.5"
   },
